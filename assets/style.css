@@ -284,20 +284,12 @@ font-family: 'Noto Sans Thai', sans-serif; */
 }
 
 .story {
-  display: grid;
-  column-gap: 0px;
-  grid-template-columns: 2fr 1fr;
-  width: 90%;
   padding: 10px;
-  margin-bottom: 100px;
-}
-
-.story#cv {
-  grid-template-columns: 1fr 2fr;
+  margin-bottom: 50px;
 }
 
 .story-content {
-  padding-left: 7vw;
+  /* padding-left: 7vw; */
   width: 100%;
   display: grid;
   justify-content: center;
@@ -311,17 +303,22 @@ font-family: 'Noto Sans Thai', sans-serif; */
 }
 
 .story img {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-bottom: 28px;
   width: 80%;
 }
 
-.story #st {
+/* .story #st {
   padding-left: 10vw;
-}
+} */
 
-.story .boxstory .text {
-  padding-left: 30px;
-  display: flex;
-  width: 100%;
+.story .text {
+  margin: 0 auto;
+  width: 90vw;
+  font-size: 18px;
+  text-align: justify;
+  text-indent: 27px;
 }
 
 @media screen and (max-width: 550px) {
