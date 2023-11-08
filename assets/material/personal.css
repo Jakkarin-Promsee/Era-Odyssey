@@ -1,5 +1,4 @@
 body {
-  font-family: Arial, sans-serif;
   text-align: center;
   margin: 0;
   background-color: #0f1923;
@@ -29,6 +28,7 @@ body {
 }
 
 .person {
+  font-family: Arial, sans-serif;
   width: 70%;
   padding-top: 20px;
   padding-bottom: 30px;
