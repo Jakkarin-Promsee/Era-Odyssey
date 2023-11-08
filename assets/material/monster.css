@@ -1,20 +1,46 @@
-.monster {
-  margin-top: 60px;
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  background-color: #0f1923;
+}
+
+.main-box {
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding-top: 30px;
+}
+
+.monster {
+  display: flex;
+  width: 90%;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-bottom: 20px;
 }
 
 .blog {
-  border-bottom: 9px solid black;
-  display: grid;
-  grid-template-columns: 1fr;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.blog h3 {
+.blog p {
   margin: 0 0;
   padding-left: 30px;
   font-size: 30px;
+  font-weight: lighter;
 }
 
 .blog img {
@@ -29,4 +55,10 @@
 .c2-name .void {
   width: 100%;
   height: 100px;
+}
+
+.main-box .name {
+  font-size: 2em;
+  font-weight: bolder;
+  margin-bottom: 30px;
 }
