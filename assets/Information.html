@@ -52,7 +52,12 @@
           <a id="menu6" href="/assets/About.html">About</a>
         </div>
 
-        <div class="bar" id="settingbar" onclick="ShowMore(this)">
+        <div
+          href="javascript:void(0)"
+          class="bar"
+          id="settingbar"
+          onclick="openNav(); menuClick(this);"
+        >
           <div class="left"></div>
           <div class="center"></div>
           <div class="right"></div>
@@ -60,6 +65,27 @@
       </div>
     </div>
     <div class="topnav-void"></div>
+
+    <div id="mySidenav" class="sidenav">
+      <div class="buttonline active">
+        <a id="Amenu1" href="/assets/Home.html">Home</a>
+      </div>
+      <div class="buttonline">
+        <a id="Amenu2" href="/assets/Monster.html">Monster</a>
+      </div>
+      <div class="buttonline">
+        <a id="Amenu3" href="#Information">Information</a>
+      </div>
+      <div class="buttonline">
+        <a id="Amenu4" href="/assets/Play.html">Play</a>
+      </div>
+      <div class="buttonline">
+        <a id="Amenu5" href="/assets/Gallery.html">Gallery</a>
+      </div>
+      <div class="buttonline">
+        <a id="Amenu6" href="/assets/About.html">About</a>
+      </div>
+    </div>
 
     <div class="information">
       <img src="/assets/material/Information/Gg-v4_page-0001.jpg" alt="" />
@@ -72,5 +98,7 @@
       <img src="/assets/material/Information/Gg-v4_page-0008.jpg" alt="" />
       <img src="/assets/material/Information/Gg-v4_page-0009.jpg" alt="" />
     </div>
+
+    <script src="/assets/script.js"></script>
   </body>
 </html>

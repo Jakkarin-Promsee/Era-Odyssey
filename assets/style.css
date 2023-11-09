@@ -105,6 +105,7 @@ font-family: 'Noto Sans Thai', sans-serif; */
 
 .bar {
   padding: 10px;
+  transition: 0.4s;
 }
 
 /* to make green side in left website*/
@@ -135,6 +136,53 @@ font-family: 'Noto Sans Thai', sans-serif; */
   transition: 0.4s;
 }
 
+.change.bar .left {
+  transform: translate(0, 10px) rotate(-45deg);
+}
+
+.change.bar .center {
+  opacity: 0;
+}
+
+.change.bar .right {
+  transform: translate(0, -10px) rotate(45deg);
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  float: right;
+  z-index: 1;
+  top: 80px;
+  right: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 10px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 8px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0px;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
 /* for hide setting menu with website scale */
 
 @media screen and (min-width: 935px) {
@@ -142,10 +190,24 @@ font-family: 'Noto Sans Thai', sans-serif; */
     display: none;
   }
 }
+@media screen and (max-width: 935px) {
+  #Amenu6,
+  #Amenu5,
+  #Amenu4,
+  #Amenu3,
+  #Amenu2,
+  #Amenu1 {
+    display: none;
+  }
+}
 
 @media screen and (max-width: 935px) {
   #menu6 {
     display: none;
+  }
+
+  #Amenu6 {
+    display: block;
   }
 
   #settingbar {
@@ -157,11 +219,17 @@ font-family: 'Noto Sans Thai', sans-serif; */
   #menu5 {
     display: none;
   }
+  #Amenu5 {
+    display: block;
+  }
 }
 
 @media screen and (max-width: 777px) {
   #menu4 {
     display: none;
+  }
+  #Amenu4 {
+    display: block;
   }
 }
 
@@ -171,6 +239,13 @@ font-family: 'Noto Sans Thai', sans-serif; */
   #menu2,
   #menu1 {
     display: none;
+  }
+
+  #Amenu4,
+  #Amenu3,
+  #Amenu2,
+  #Amenu1 {
+    display: block;
   }
 }
 
@@ -285,6 +360,7 @@ font-family: 'Noto Sans Thai', sans-serif; */
 
 .story {
   padding: 10px;
+  margin: 0 auto;
   margin-bottom: 50px;
 }
 
@@ -300,11 +376,11 @@ font-family: 'Noto Sans Thai', sans-serif; */
   left: 0%;
   transform: translate(0%, 0%);
   background-color: #ece7e1;
+  text-align: center;
+  border: 1px solid red;
 }
 
 .story img {
-  margin-left: 10vw;
-  margin-right: 10vw;
   margin-bottom: 28px;
   width: 80%;
 }
@@ -314,27 +390,37 @@ font-family: 'Noto Sans Thai', sans-serif; */
 } */
 
 .story .text {
-  margin: 0 auto;
   width: 90vw;
+  margin: 0 auto;
   font-size: 18px;
   text-align: justify;
   text-indent: 27px;
 }
 
-@media screen and (max-width: 550px) {
-  .c1-name .description {
-    top: 40%;
-  }
-}
-
 @media screen and (max-width: 750px) {
+  .c2-name {
+    width: 100%;
+  }
+
   .c1-name .name {
     font-size: 25px;
   }
   .c1-name .description {
-    top: 40%;
+    top: 33%;
     width: 75%;
     font-size: 18px;
+  }
+
+  @media screen and (max-width: 500px) {
+    .c1-name .description {
+      top: 40%;
+    }
+  }
+
+  @media screen and (max-width: 450px) {
+    .c1-name .description {
+      top: 45%;
+    }
   }
 
   .c2-name .box-topic {

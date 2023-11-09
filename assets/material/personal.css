@@ -1,5 +1,4 @@
 body {
-  text-align: center;
   margin: 0;
   background-color: #0f1923;
 }
@@ -35,6 +34,7 @@ body {
   background-color: #fff;
   border-radius: 10px;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .person img {
