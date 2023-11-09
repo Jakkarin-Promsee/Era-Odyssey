@@ -36,10 +36,15 @@ body {
   align-items: center;
 }
 
-.blog p {
+.blog .name {
   margin: 0 0;
-  padding-left: 30px;
   font-size: 30px;
+  font-weight: lighter;
+}
+
+.blog .detail {
+  margin: 0 0;
+  font-size: 15px;
   font-weight: lighter;
 }
 
