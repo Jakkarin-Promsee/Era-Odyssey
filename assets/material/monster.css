@@ -6,8 +6,8 @@ body {
 }
 
 .main-box {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  /*flex-direction: column;*/
   justify-content: center;
   align-items: center;
   max-width: 90%;
