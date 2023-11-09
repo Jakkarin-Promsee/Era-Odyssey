@@ -6,9 +6,8 @@ body {
 }
 
 .main-box {
-  display: grid;
-  grid-template-columns: auto auto;
-  /*flex-direction: column;*/
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   max-width: 90%;
