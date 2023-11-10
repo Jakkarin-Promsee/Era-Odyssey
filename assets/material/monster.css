@@ -100,7 +100,7 @@ body {
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 380px) {
   .blog .name {
     margin: 0 0;
     font-size: 20px;
@@ -108,7 +108,7 @@ body {
   }
 }
 
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 320px) {
   .blog .name {
     margin: 0 0;
     font-size: 15px;
