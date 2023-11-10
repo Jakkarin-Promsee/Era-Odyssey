@@ -74,3 +74,44 @@ body {
   font-weight: bolder;
   margin-bottom: 30px;
 }
+
+@media screen and (max-width: 460px) {
+  .blog .name {
+    margin: 0 0;
+    font-size: 25px;
+    font-weight: lighter;
+  }
+  .blog .detail {
+    margin: 0 0;
+    font-size: 14px;
+    font-weight: lighter;
+    color: #555;
+  }
+
+  .blog .age {
+    margin: 0 0;
+    font-size: 12px;
+    font-weight: lighter;
+    color: #555;
+  }
+
+  .blog img {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .blog .name {
+    margin: 0 0;
+    font-size: 20px;
+    font-weight: lighter;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .blog .name {
+    margin: 0 0;
+    font-size: 15px;
+    font-weight: lighter;
+  }
+}
