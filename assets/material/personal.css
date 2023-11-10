@@ -58,3 +58,27 @@ body {
   font-size: 1em;
   color: #555;
 }
+
+@media screen and (max-width: 900px) {
+  .person {
+    width: 80%;
+  }
+  .person img {
+    width: 65%;
+    border-radius: 1vw;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .person {
+    width: 90%;
+  }
+  .person img {
+    width: 80%;
+    border-radius: 1vw;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}
