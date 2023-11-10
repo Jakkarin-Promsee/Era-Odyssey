@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Doryaspis nathorsti",
+    "size": "15 เชนติเมตร",
+    "age": "432 - 419 พันล้านปีก่อน",
+    "imgSrc": "/assets//material/Creature/12.png"
+  },
+  {
+    "name": "Guiyu oneiros",
+    "size": "33 เชนติเมตร",
+    "age": "416 - 359 พันล้านปีก่อน",
+    "imgSrc": "/assets//material/Creature/13.png"
+  },
+  {
+    "name": "Metaspriggina walcotti",
+    "size": "10 เชนติเมตร",
+    "age": "505 - 480 พันล้านปีก่อน",
+    "imgSrc": "/assets//material/Creature/14.png"
+  }
+]
