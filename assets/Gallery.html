@@ -30,11 +30,14 @@
         <div class="buttonline">
           <a id="menu4" href="/assets/Play.html">Play</a>
         </div>
+        <div class="buttonline">
+          <a id="menu5" href="/assets/Animation.html">Animation</a>
+        </div>
         <div class="buttonline active">
-          <a id="menu5" href="#gallery">Gallery</a>
+          <a id="menu6" href="#Gallery">Gallery</a>
         </div>
         <div class="buttonline">
-          <a id="menu6" href="/assets/About.html">About</a>
+          <a id="menu7" href="/assets/About.html">About</a>
         </div>
 
         <div
@@ -52,7 +55,7 @@
     <div class="topnav-void"></div>
 
     <div id="mySidenav" class="sidenav">
-      <div class="buttonline active">
+      <div class="buttonline">
         <a id="Amenu1" href="/assets/Home.html">Home</a>
       </div>
       <div class="buttonline">
@@ -65,24 +68,34 @@
         <a id="Amenu4" href="/assets/Play.html">Play</a>
       </div>
       <div class="buttonline">
-        <a id="Amenu5" href="#Gallery">Gallery</a>
+        <a id="Amenu5" href="/assets/Animation.html">Animation</a>
       </div>
       <div class="buttonline">
-        <a id="Amenu6" href="/assets/About.html">About</a>
+        <a id="Amenu6" href="#Gallery">Gallery</a>
+      </div>
+      <div class="buttonline">
+        <a id="Amenu7" href="/assets/About.html">About</a>
       </div>
     </div>
 
-    <h1>Game Gallery</h1>
-    <div class="gallery">
-      <img src="/assets/material/Creature/1.png" alt="" />
-      <img src="/assets/material/Creature/2.png" alt="" />
-      <img src="/assets/material/Creature/3.png" alt="" />
-      <img src="/assets/material/Creature/4.png" alt="" />
-      <img src="/assets/material/Creature/5-1.png" alt="" />
-      <img src="/assets/material/Creature/5-2.png" alt="" />
-      <!-- Add more images as needed -->
+    <div id="gallery-container" class="gallery-container">
+      <!-- Image containers will be added here dynamically -->
     </div>
 
+    <div class="gallery">
+      <div class="gallery-item">
+        <img src="/assets/material/Creature/1.png" alt="Image 1" />
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/material/Creature/2.png" alt="Image 2" />
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/material/Creature/3.png" alt="Image 3" />
+      </div>
+      <!-- Add more gallery items as needed -->
+    </div>
+
+    <script src="/assets/material/gallery.js"></script>
     <script src="/assets/script.js"></script>
   </body>
 </html>
