@@ -62,6 +62,62 @@
         "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/10.png",
         "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/11.png"
       ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/1.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/2.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/3.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/4.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/5.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/6.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/7.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/8.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/9.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/10.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Benmoulue/Attack/11.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Nautiloidea/Attack/1.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Nautiloidea/Attack/2.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Nautiloidea/Attack/3.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Nautiloidea/Attack/4.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Nautiloidea/Attack/5.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/1.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/2.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/3.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/4.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/5.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/6.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/7.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Andreolepis/Attack/8.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Eurypteride/Attack/1.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Eurypteride/Attack/2.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Eurypteride/Attack/3.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Eurypteride/Attack/4.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Eurypteride/Attack/5.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Pterygotus scorpian/Attack/1.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Pterygotus scorpian/Attack/2.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Pterygotus scorpian/Attack/3.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Pterygotus scorpian/Attack/4.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Pterygotus scorpian/Attack/5.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Pterygotus scorpian/Attack/6.png",
+        "/assets/material/Animation/Monster/3_Silurian/Boss/Pterygotus scorpian/Attack/7.png"
+      ]
     }
   ]
 }
