@@ -193,6 +193,7 @@ font-family: 'Noto Sans Thai', sans-serif; */
   }
 }
 @media screen and (max-width: 935px) {
+  #Amenu7,
   #Amenu6,
   #Amenu5,
   #Amenu4,
@@ -204,11 +205,11 @@ font-family: 'Noto Sans Thai', sans-serif; */
 }
 
 @media screen and (max-width: 935px) {
-  #menu6 {
+  #menu7 {
     display: none;
   }
 
-  #Amenu6 {
+  #Amenu7 {
     display: block;
   }
 
@@ -218,19 +219,19 @@ font-family: 'Noto Sans Thai', sans-serif; */
 }
 
 @media screen and (max-width: 861px) {
-  #menu5 {
+  #menu6 {
     display: none;
   }
-  #Amenu5 {
+  #Amenu6 {
     display: block;
   }
 }
 
 @media screen and (max-width: 777px) {
-  #menu4 {
+  #menu5 {
     display: none;
   }
-  #Amenu4 {
+  #Amenu5 {
     display: block;
   }
 }
