@@ -1,0 +1,67 @@
+{
+  "imageSets": [
+    {
+      "images": [
+        "/assets/material/Animation/Player/Run/1.png",
+        "/assets/material/Animation/Player/Run/2.png",
+        "/assets/material/Animation/Player/Run/3.png",
+        "/assets/material/Animation/Player/Run/4.png",
+        "/assets/material/Animation/Player/Run/5.png",
+        "/assets/material/Animation/Player/Run/6.png",
+        "/assets/material/Animation/Player/Run/7.png",
+        "/assets/material/Animation/Player/Run/8.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Player/Attack/1.png",
+        "/assets/material/Animation/Player/Attack/2.png",
+        "/assets/material/Animation/Player/Attack/3.png",
+        "/assets/material/Animation/Player/Attack/4.png",
+        "/assets/material/Animation/Player/Attack/5.png",
+        "/assets/material/Animation/Player/Attack/6.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Anomolocaris/Attack/1.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Anomolocaris/Attack/2.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Anomolocaris/Attack/3.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Anomolocaris/Attack/4.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Anomolocaris/Attack/5.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Anomolocaris/Attack/6.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Opabinia/Attack/1.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Opabinia/Attack/2.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Opabinia/Attack/3.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Opabinia/Attack/4.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Trilobite/Attack/1.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Trilobite/Attack/2.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Trilobite/Attack/3.png",
+        "/assets/material/Animation/Monster/1_Cambrian/Boss/Trilobite/Attack/4.png"
+      ]
+    },
+    {
+      "images": [
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/1.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/2.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/3.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/4.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/5.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/6.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/7.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/8.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/9.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/10.png",
+        "/assets/material/Animation/Monster/2_Ordovician/Boss/Ammonites/Attack/11.png"
+      ]
+    }
+  ]
+}
