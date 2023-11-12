@@ -3,8 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Animation</title>
+    <title>Gallery</title>
     <link rel="stylesheet" href="/assets/style.css" />
+    <link rel="stylesheet" href="/assets/material/gallery.css" />
   </head>
   <body>
     <div class="topnav">
@@ -32,7 +33,7 @@
         <div class="buttonline">
           <a id="menu5" href="/assets/Animation.html">Animation</a>
         </div>
-        <div class="buttonline">
+        <div class="buttonline active">
           <a id="menu6" href="#Gallery">Gallery</a>
         </div>
         <div class="buttonline">
@@ -77,8 +78,14 @@
       </div>
     </div>
 
-    <div class="topnav-void"></div>
+    <div class="name-period"><p>Cambrain Period</p></div>
+    <div class="gallery" id="gallery-cambrain-container"></div>
+    <div class="name-period"><p>Ordovician Period</p></div>
+    <div class="gallery" id="gallery-ordovician-container"></div>
+    <div class="name-period"><p>Silurian Period</p></div>
+    <div class="gallery" id="gallery-silurian-container"></div>
 
+    <script src="/assets/material/gallery.js"></script>
     <script src="/assets/script.js"></script>
   </body>
 </html>

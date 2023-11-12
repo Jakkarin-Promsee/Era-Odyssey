@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  justify-content: space-around;
+  margin-bottom: 80px;
+}
+
+.gallery-item {
+  margin: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.gallery-item p {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.name-period {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 20px;
+  margin-bottom: 30px;
+}
+
+.name-period p {
+  display: inline;
+  border-bottom: 3px solid #fc474e;
+}

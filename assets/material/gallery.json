@@ -1,0 +1,196 @@
+{
+  "Cambrian": [
+    {
+      "src": "/assets/material/0.Image/Material/1/Cambrian rock.png",
+      "alt": "Material 1",
+      "name": "Material 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/1/Hard Cambrain rock.png",
+      "alt": "Material 2",
+      "name": "Material 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/1/Obsidian.png",
+      "alt": "Material 3",
+      "name": "Material 3"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/1/Quartz.png",
+      "alt": "Material 4",
+      "name": "Material 4"
+    },
+
+    {
+      "src": "/assets/material/0.Image/Weapon/1/4.png",
+      "alt": "weapon 1",
+      "name": "Weapon 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/1/9.png",
+      "alt": "weapon 2",
+      "name": "Weapon 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/1/10.png",
+      "alt": "weapon 3",
+      "name": "Weapon 4"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/1/11.png",
+      "alt": "weapon 4",
+      "name": "Weapon 4"
+    },
+
+    {
+      "src": "/assets/material/0.Image/Armor/1/18.png",
+      "alt": "armor 1",
+      "name": "Armor 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/1/19.png",
+      "alt": "armor 2",
+      "name": "Armor 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/1/20.png",
+      "alt": "armor 3",
+      "name": "Armor 3"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/1/21.png",
+      "alt": "armor 4",
+      "name": "Armor 4"
+    }
+  ],
+
+  "Ordovician": [
+    {
+      "src": "/assets/material/0.Image/Material/2/15.png",
+      "alt": "Material 1",
+      "name": "Material 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/2/2.png",
+      "alt": "Material 2",
+      "name": "Material 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/2/5.png",
+      "alt": "Material 3",
+      "name": "Material 3"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/2/Mt4.png",
+      "alt": "Material 4",
+      "name": "Material 4"
+    },
+
+    {
+      "src": "/assets/material/0.Image/Weapon/2/Mt10.png",
+      "alt": "weapon 1",
+      "name": "Weapon 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/2/Mt14.png",
+      "alt": "weapon 2",
+      "name": "Weapon 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/2/Mt15.png",
+      "alt": "weapon 3",
+      "name": "Weapon 4"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/2/Mt9.png",
+      "alt": "weapon 4",
+      "name": "Weapon 4"
+    },
+
+    {
+      "src": "/assets/material/0.Image/Armor/2/22.png",
+      "alt": "armor 1",
+      "name": "Armor 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/2/23.png",
+      "alt": "armor 2",
+      "name": "Armor 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/2/24.png",
+      "alt": "armor 3",
+      "name": "Armor 3"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/2/25.png",
+      "alt": "armor 4",
+      "name": "Armor 4"
+    }
+  ],
+
+  "Silurian": [
+    {
+      "src": "/assets/material/0.Image/Material/3/Mt1.png",
+      "alt": "Material 1",
+      "name": "Material 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/3/Mt2.png",
+      "alt": "Material 2",
+      "name": "Material 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/3/Mt3.png",
+      "alt": "Material 3",
+      "name": "Material 3"
+    },
+    {
+      "src": "/assets/material/0.Image/Material/3/Mt5.png",
+      "alt": "Material 4",
+      "name": "Material 4"
+    },
+
+    {
+      "src": "/assets/material/0.Image/Weapon/3/Wp2.png",
+      "alt": "weapon 1",
+      "name": "Weapon 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/3/Wp3.png",
+      "alt": "weapon 2",
+      "name": "Weapon 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/3/Wp4.png",
+      "alt": "weapon 3",
+      "name": "Weapon 4"
+    },
+    {
+      "src": "/assets/material/0.Image/Weapon/3/Wp6.png",
+      "alt": "weapon 4",
+      "name": "Weapon 4"
+    },
+
+    {
+      "src": "/assets/material/0.Image/Armor/3/Ar1.png",
+      "alt": "armor 1",
+      "name": "Armor 1"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/3/Ar2.png",
+      "alt": "armor 2",
+      "name": "Armor 2"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/3/Ar3.png",
+      "alt": "armor 3",
+      "name": "Armor 3"
+    },
+    {
+      "src": "/assets/material/0.Image/Armor/3/Ar4.png",
+      "alt": "armor 4",
+      "name": "Armor 4"
+    }
+  ]
+}
